@@ -53,6 +53,7 @@ li a {
     color: #777777;
     background-color: #ffffff;
     padding: 50px; 
+    overflow: hidden;
 }
 .main h1{
     color: #4aaaa5;
@@ -70,6 +71,7 @@ li a {
 #main{
     margin: 20px;
     min-height: 100%;
+    overflow: hidden;
 }
 #main p{
     width: 60%;
