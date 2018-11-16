@@ -5,4 +5,4 @@
 #### These website demonstrate my ability in **front-end** web designing.
 #### URL:
 * You can see how it looks like in the following URL:
- * https://nasimfekrat.github.io/basic-portfolio/.
+  * https://nasimfekrat.github.io/basic-portfolio/.
